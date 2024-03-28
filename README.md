@@ -204,33 +204,7 @@ You can set below parameter while creating object of JarvisAI-
  **You tell me**    
     
  ## 7. Contribute-    
- **Instructions Coming Soon**    
- ## 8. Contact me-    
- - [Instagram](https://www.instagram.com/dipesh_pal17)    
-        
-- [YouTube](https://www.youtube.com/dipeshpal17)    
-        
-    
-    
-## 9. Donate-    
- [Donate and Contribute to run me this project, and buy a domain](https://www.buymeacoffee.com/dipeshpal)    
-    
-**_Feel free to use my code, don't forget to mention credit. All the contributors will get credits in this repo._**    
- **_Mention below line for credits-_**    
- ***Credits-***    
- - [https://jarvis-ai-api.herokuapp.com](https://jarvis-ai-api.herokuapp.com/)    
-        
-- [https://github.com/Dipeshpal/Jarvis_AI](https://github.com/Dipeshpal/Jarvis_AI)    
-        
-- [https://www.youtube.com/dipeshpal17](https://www.youtube.com/dipeshpal17)    
-        
-- [https://www.instagram.com/dipesh_pal17](https://www.instagram.com/dipesh_pal17/)    
-        
-    
-## 10. Thank me on-    
- - Follow me on Instagram:  [https://www.instagram.com/dipesh_pal17](https://www.instagram.com/dipesh_pal17/)    
-        
-- Subscribe me on YouTube:  [https://www.youtube.com/dipeshpal17](https://www.youtube.com/dipeshpal17)    
+ **Instructions Coming Soon**
     
 ## License    
  [MIT](https://choosealicense.com/licenses/mit/)
